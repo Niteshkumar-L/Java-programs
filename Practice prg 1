@@ -1,4 +1,4 @@
-class Calsum{ 
+Public class Calsum{ 
 void sum(int m,int n){
 System.out.println(m+n);
 } 
