@@ -1,4 +1,4 @@
-class DisplayMatrix {
+class DisMatrix {
 
   public static void main(String[] args){
       int matrix[][] = 
